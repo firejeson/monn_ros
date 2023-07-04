@@ -1,0 +1,2 @@
+task1:task2:task3
+-DCATKIN_DEVEL_PREFIX=/home/firejeson/Desktop/ros_fj/devel -DCMAKE_INSTALL_PREFIX=/home/firejeson/Desktop/ros_fj/install -G Unix Makefiles

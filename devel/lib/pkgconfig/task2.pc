@@ -1,0 +1,8 @@
+prefix=/home/firejeson/Desktop/ros_fj/devel
+
+Name: task2
+Description: Description of task2
+Version: 0.0.0
+Cflags: -I/home/firejeson/Desktop/ros_fj/src/task2/include
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs cv_bridge image_transport
